@@ -1,2 +1,2 @@
 # Introduction-to-Python
-Project of the course "Introduction to python"
+Final project of the course "Introduction to python"
